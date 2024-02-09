@@ -19,5 +19,5 @@ java Encryption encrypt rot6 "The given Text"
 ```
 java Encryption decrypt "Pxgg wn axktnlzxyngwxg atlm, ptl wbxlxk Mxqm uxwxnmxm, atlm wn xgmpxwxk lxak obxex Fhxzebvadxbmxg tnlikhubxkm ngw wbk ynxgyngwsptgsbzfte Fnxee tgzxznvdm. Hwxk wn atlm wbx spxbmx Mxbetnyztux kbvambz zxehxlm."
 ```
-It will give youan output that most likly to be the decryptions of your text
-if it's write just enter 1 otherwise press 2 for the next possible decryption
+It will give you an output that most likly to be the decryptions of your text
+if it is right just enter 1 otherwise enter 2 for the next possible decryption
